@@ -1,4 +1,4 @@
-# StudioSpace Backend
+# StudioSpace Backend 
 
 A RESTful API for **StudioSpace**, a studio discovery and booking platform. The backend handles studio management, user authentication, bookings, reviews, and database operations.
 
